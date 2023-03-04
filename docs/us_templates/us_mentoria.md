@@ -9,9 +9,11 @@ assignees: ''
 
 **Descrição**
 Uma descrião clara e sucinta sobre o contexto da User Story.
+___________________________________________________________________________________________________________
 
 **Protótipos**
 Wireframes ou fluxgramas que representem visualmente a User Story descrita.
+___________________________________________________________________________________________________________
 
 **Critérios de Aceite**
 Todos os requisitos que demonstrem o funcionamento do produto, apresentados em um formato de lista numerada.
@@ -20,6 +22,7 @@ Todos os requisitos que demonstrem o funcionamento do produto, apresentados em u
 2. Critério 2.
 
 3. Critério 3.
+___________________________________________________________________________________________________________
 
 **Additional context**
 Qualquer observação importante para melhorar o entendimento da User Story
@@ -37,7 +40,7 @@ ________________________________________________________________________________
 - [ ] Ter sido validado pelo mentor
 ___________________________________________________________________________________________________________
 
-*DoD - Definition of Done**
+**DoD - Definition of Done**
 - [ ] Documentar ferramentas, documentação e ambientes necessários para realização de teste.
 
 - [ ] Execução de testes unitários.
