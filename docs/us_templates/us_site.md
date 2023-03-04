@@ -1,7 +1,7 @@
 ---
 name: User Story - Site
 about: User Story do Produto "Site".
-title: "[US_SITE]"
+title: "[US SITE]"
 labels: ''
 assignees: ''
 
