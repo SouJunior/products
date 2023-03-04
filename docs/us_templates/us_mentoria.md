@@ -1,6 +1,6 @@
 ---
 name: User Story - Portal de Mentorias
-about: Template para a User Story do Produto "Portal de Mentorias".
+about: User Story do Produto "Portal de Mentorias".
 title: "[US MENTORIA]"
 labels: ''
 assignees: ''
