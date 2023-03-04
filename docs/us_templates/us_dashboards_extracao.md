@@ -1,7 +1,7 @@
 ---
 name: User Story - Dashboards
 about: User Story do Produto "Dashboards".
-title: "[US DASHNOARDS EXTRAÇÃO]"
+title: "[US DASHBOARDS EXTRAÇÃO]"
 labels: ''
 assignees: ''
 
