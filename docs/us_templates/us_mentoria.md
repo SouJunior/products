@@ -24,20 +24,20 @@ Todos os requisitos que demonstrem o funcionamento do produto, apresentados em u
 3. Critério 3.
 ___________________________________________________________________________________________________________
 
-**Additional context**
+**Informações Adicionais**
 Qualquer observação importante para melhorar o entendimento da User Story
 ___________________________________________________________________________________________________________
 
 **DoR - Definition of Ready**
-- [ ] O item ter sido refinado seguindo o modelo de User Story
+- [ ] O item ter sido refinado seguindo o modelo de User Story.
 
-- [ ] A User Story deverá ter pelo menos um critério de aceite
+- [ ] A User Story deverá ter pelo menos um critério de aceite.
 
-- [ ]  A User Story deverá ter pelo menos uma referência visual (Ex: Protótipo, Fluxograma e etc...)
+- [ ]  A User Story deverá ter pelo menos uma referência visual (Ex: Protótipo, Fluxograma e etc...).
 
-- [ ] A User Story deverá apresentar o seu módulo de referência: Mentor ou Mentorado
+- [ ] A User Story deverá apresentar o seu módulo de referência: Mentor ou Mentorado.
 
-- [ ] Ter sido validado pelo mentor
+- [ ] Ter sido validado pelo mentor.
 ___________________________________________________________________________________________________________
 
 **DoD - Definition of Done**
@@ -49,6 +49,6 @@ ________________________________________________________________________________
 
 - [ ] Critérios de aceite verificados, testados e validado.
 
-- [ ] Teste de software criados, executados e validados pelo QA
+- [ ] Teste de software criados, executados e validados pelo QA.
 
 - [ ] Garantir que todas as etapas planejadas foram atendidas/concluídas.
