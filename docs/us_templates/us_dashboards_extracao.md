@@ -33,10 +33,12 @@ ________________________________________________________________________________
 
 - [ ] A User Story deverá ter pelo menos um critério de aceite.
 
-- [ ] Ter sido validado pelo mentor.
+- [ ] A User Story deve ter sido validada pelo mentor.
 ___________________________________________________________________________________________________________
 
 **DoD - Definition of Done**
 - [ ] Os dados deverão ser integrados em um Banco de dados estruturado de acordo com o que foi solicitado.
 
 - [ ] Os dados deverão ser tratados e limpos de quaisquer caracteres duplicados ou fora do padrão.
+
+- [ ] As funcionalidades devem ser previamente testadas pelo time de desenvolvimento e aprovadas pelo time de QA.
