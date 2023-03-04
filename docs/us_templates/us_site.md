@@ -1,11 +1,12 @@
 ---
 name: User Story - Site
 about: User Story do Produto "Site".
-title: "[US SITE]"
+title: "[US_SITE]"
 labels: ''
 assignees: ''
 
 ---
+___________________________________________________________________________________________________________
 
 **Descrição**
 Uma descrião clara e sucinta sobre o contexto da User Story.
