@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 
 **Descrição**
-Uma descrião clara e sucinta sobre o contexto da User Story.
+Uma descrição clara e sucinta sobre o contexto da User Story.
 ___________________________________________________________________________________________________________
 
 **Protótipos**
