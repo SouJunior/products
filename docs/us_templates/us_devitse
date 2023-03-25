@@ -1,12 +1,14 @@
 ---
-name: User Story - Devit-se
-about: User Story do Produto "Devit-se".
-title: "[US DEVIT-SE]"
+name: User Story - Dashboards
+about: User Story do Produto "Dashboards".
+title: "[US DASHBOARDS]"
 labels: ''
 assignees: ''
 
 ---
+
 ___________________________________________________________________________________________________________
+
 
 **Descrição**
 Uma descrição clara e sucinta sobre o contexto da User Story.
@@ -28,3 +30,28 @@ ________________________________________________________________________________
 **Informações Adicionais**
 Qualquer observação importante para melhorar o entendimento da User Story
 ___________________________________________________________________________________________________________
+
+**DoR - Definition of Ready**
+- [ ] As telas de visualização de dados necessitam de wireframes e protótipos previamente construídos e aprovados pelo time de design e produto.
+
+- [ ] Os dados a serem exibidos devem exibir legendas.
+
+- [ ] As interfaces devem cumprir os requisitos de contraste de cor com avaliação AAA, utilizando o plugin A11Y - Color Contrast.
+
+- [ ] As interfaces devem respeitar os padrões da comunicação visual da marca da SouJunior.
+
+- [ ] Os dashboards deverão possuir um filtro para selecionar o período de início e fim da pesquisa dos dados.
+
+- [ ] A User Story deve ter sido validada pelo mentor.
+___________________________________________________________________________________________________________
+
+**DoD - Definition of Done**
+- [ ] Os dados dos dashboards devem compreender um período histórico desde a criação da conta SouJunior na plataforma.
+
+- [ ] As interfaces devem respeitar os critérios de contraste definidos nos protótipos.
+
+- [ ] As interfaces devem ser acessíveis por pessoas com daltonismo.
+
+- [ ] As intefaces devem ser responsivas.
+
+- [ ] As funcionalidades devem ser previamente testadas pelo time de desenvolvimento e aprovadas pelo time de QA.
