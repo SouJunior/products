@@ -19,6 +19,12 @@ ________________________________________________________________________________
 Uma descrição clara e sucinta sobre o contexto da User Story.
 ___________________________________________________________________________________________________________
 
+
+**Refinamento de UI**
+Incluir o link do card do board de UX onde está sendo feito o refinamento do item (inclusão feita pelo UX/UI da User Story).
+___________________________________________________________________________________________________________
+
+
 **Protótipos**
 Wireframes ou fluxgramas que representem visualmente a User Story descrita.
 ___________________________________________________________________________________________________________
