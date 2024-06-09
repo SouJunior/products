@@ -1,5 +1,5 @@
 ---
-name: User Story - Learning
+name: User Story - SJ Learning
 about: User Story do Produto "Learning".
 title: "[US LEARINING]"
 labels: ''
