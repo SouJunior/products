@@ -1,7 +1,7 @@
 ---
-name: User Story - Devit-se
-about: User Story do Produto "Devit-se".
-title: "[US DEVIT-SE]"
+name: User Story - Learning
+about: User Story do Produto "Learning".
+title: "[US LEARINING]"
 labels: ''
 assignees: ''
 
