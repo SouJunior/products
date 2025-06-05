@@ -38,7 +38,23 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 
 ### Mensagem Central / Conteúdo a ser transmitido
-> O que você quer comunicar com esse post? Resumo da mensagem, ideia ou conteúdo que deve ser priorizado.
+> O que você quer comunicar com esse post? 
+
+* Resumo da mensagem, ideia ou conteúdo que deve ser priorizado.
+
+
+
+* Incluir o discord dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+
+
+
+* Incluir o LinkedIn dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+
+
+* Incluir o Instagram dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+
+
+
 ________________________________________________________________________________________________________
 
 ### Referências e Materiais de Apoio  
