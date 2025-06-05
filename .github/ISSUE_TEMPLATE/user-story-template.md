@@ -1,3 +1,12 @@
+---
+name: user-story-template
+about: Template para User Stories.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## [TÍTULO DA USER STORY]
 
 ---
