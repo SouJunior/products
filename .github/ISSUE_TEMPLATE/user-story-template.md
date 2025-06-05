@@ -1,28 +1,31 @@
 ---
-name: User Story - Portal de Mentorias
-about: Template para a User Story do Produto "Portal de Mentorias".
-title: "[US MENTORIA]"
+name: User Story Template
+about: Template para a User Story.
+title: "[USER STORY]"
 labels: ''
 assignees: ''
 
 ---
 
+**User Story**
+Como *<usuário>*, eu desejo *<descrição sobre a necessidade do usuário>*, para *<qual será o valor agregado que obter o que o usuário precisa vai gerar>*.
+
 **Descrição**
-Uma descrião clara e sucinta sobre o contexto da User Story.
+*Uma descrição clara e sucinta sobre o contexto da User Story.*
 
 **Protótipos**
-Wireframes ou fluxgramas que representem visualmente a User Story descrita.
+*Wireframes ou fluxgramas que representem visualmente a User Story descrita. Quando o arquivo do Figma (alta fidelidade) estiver pronto, incluir link ou prints de tela.*
 
 **Critérios de Aceite**
-Todos os requisitos que demonstrem o funcionamento do produto, apresentados em um formato de lista numerada.
+*Todos os requisitos que demonstrem o funcionamento do produto, apresentados em um formato de lista numerada.*
 1. Critério 1.
 
 2. Critério 2.
 
 3. Critério 3.
 
-**Additional context**
-Qualquer observação importante para melhorar o entendimento da User Story
+**Contexto Adicional**
+*Qualquer observação importante para melhorar o entendimento da User Story.*
 ___________________________________________________________________________________________________________
 
 **DoR - Definition of Ready**
@@ -31,8 +34,6 @@ ________________________________________________________________________________
 - [ ] A User Story deverá ter pelo menos um critério de aceite
 
 - [ ]  A User Story deverá ter pelo menos uma referência visual (Ex: Protótipo, Fluxograma e etc...)
-
-- [ ] A User Story deverá apresentar o seu módulo de referência: Mentor ou Mentorado
 
 - [ ] Ter sido validado pelo mentor
 ___________________________________________________________________________________________________________
