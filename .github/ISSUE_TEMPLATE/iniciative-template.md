@@ -1,3 +1,12 @@
+---
+name: iniciative-template
+about: Template para Iniciativas
+title: "[INICIATIVE]"
+labels: ''
+assignees: ''
+
+---
+
 ## [TÍTULO DA INICIATIVE]
 
 ---
@@ -73,4 +82,3 @@ ________________________________________________________________________________
 ### Anexos e Documentos de Referência
 > Links para apresentações, pesquisas, protótipos, entrevistas, decisões anteriores, dentre outros.
 ________________________________________________________________________________________________________
-
