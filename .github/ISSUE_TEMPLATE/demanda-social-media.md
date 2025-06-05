@@ -1,3 +1,12 @@
+---
+name: demanda-social-media
+about: Solicitação de demandas para a equipe de Social Media
+title: "[DEMANDA SOCIAL MEDIA]"
+labels: ''
+assignees: ''
+
+---
+
 ## [TÍTULO DA DEMANDA]
 > Este formulário tem como finalidade padronizar os pedidos de criação de conteúdo para redes sociais, garantindo clareza, alinhamento e organização do fluxo com o time de Social Media.
 ---
