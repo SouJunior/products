@@ -38,7 +38,7 @@ ________________________________________________________________________________
 - [ ] Ter sido validado pelo mentor
 ___________________________________________________________________________________________________________
 
-*DoD - Definition of Done**
+**DoD - Definition of Done**
 - [ ] Documentar ferramentas, documentação e ambientes necessários para realização de teste.
 
 - [ ] Execução de testes unitários.
