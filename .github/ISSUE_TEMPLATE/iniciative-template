@@ -1,67 +1,79 @@
+---
+name: Iniciative Template
+about: Template para as Iniciativas.
+title: "[INICIATIVE]"
+labels: ''
+assignees: ''
+
+---
+
 **Título da Iniciativa**
-*Nome claro e direto da iniciativa (ex: "Área do Aluno", "Reformulação do Onboarding").
-________________________________________
+*Nome claro e direto da iniciativa. Por exemplo, "Área do Aluno", "Reformulação do Onboarding".
+___________________________________________________________________________________________________________
 
 **Objetivo da Iniciativa**
-*Explique o propósito principal. O que queremos alcançar com essa iniciativa?*
-________________________________________
+*Explique por que essa iniciativa surgiu, qual o problema/oportunidade identificado e como ele se alinha à estratégia da empresa.*
+___________________________________________________________________________________________________________
 
 **Contexto e Justificativa**
-Explique por que essa iniciativa surgiu, qual o problema/oportunidade identificado(a) e como ela se alinha à estratégia da empresa.
-________________________________________
+*Wireframes ou fluxgramas que representem visualmente a User Story descrita. Quando o arquivo de alta fidelidade estiver pronto, incluir link ou prints de tela.*
+___________________________________________________________________________________________________________
 
-**Resultados Esperados (Impactos)**
+**Resultados Esperados ou Impactos**
 *O que esperamos atingir? Impactos qualitativos e quantitativos.*
-•	
-•	
-•	
-________________________________________
+- 
+-
+-
+___________________________________________________________________________________________________________
 
 **Escopo Inicial**
 Escopo:
-•	
-•	
-•	
+-	
+-	
+-	
 Fora do Escopo:
-•	
-•	
-________________________________________
+-	
+-
+___________________________________________________________________________________________________________
 
 **Ideias Iniciais e Soluções Consideradas**
-*Liste brevemente soluções avaliadas ou propostas iniciais (wireframes, benchmarkings, hipóteses de design etc.).*
-________________________________________
+*Liste brevemente soluções avaliadas ou propostas iniciais. Por exemplo, wireframes, benchmarkings, hipóteses de design.*
+-	
+-	
+-	
+___________________________________________________________________________________________________________
 
 **Requisitos e Restrições Técnicas**
 *Informações técnicas relevantes: integrações necessárias, limitações do sistema atual, premissas, requisitos legais etc.*
-________________________________________
+___________________________________________________________________________________________________________
 
 **Stakeholders e Times Envolvidos**
-•	
-•	
-•	
-•	
-•	
-________________________________________
+-	
+-	
+-	
+-	
+-	
+___________________________________________________________________________________________________________
 
 **Critérios de Sucesso e de Aceitação Macro**
 *Critérios amplos que indicam que a iniciativa está “concluída com sucesso”.*
-•	
-•	
-•	
-________________________________________
+-	
+-	
+-	
+___________________________________________________________________________________________________________
 
 **Dependências / Pré-requisitos**
 *Há algo que precisa ser feito antes? Alguma dependência técnica ou de outro time?*
-•	
-•	
-•	
-________________________________________
+-	
+-	
+-	
+
+___________________________________________________________________________________________________________
 
 **Linha do Tempo Estimada (Alta Nível)**
-*Inclua marcos relevantes ou estimativa de quando começará/terminará (sem detalhamento de sprints ainda).*
-________________________________________
+*Inclua marcos relevantes ou estimativa de quando começará/terminará - sem detalhamento de sprints.*
+___________________________________________________________________________________________________________
 
 **Anexos e Documentos de Referência**
 *Links para apresentações, pesquisas, protótipos, entrevistas, decisões anteriores, etc.*
-________________________________________
-
+___________________________________________________________________________________________________________
