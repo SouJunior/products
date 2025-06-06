@@ -1,12 +1,3 @@
----
-name: epic-template
-about: Template para Épicos
-title: "[EPIC]"
-labels: ''
-assignees: ''
-
----
-
 ## [TÍTULO DO ÉPICO]
 
 ---
