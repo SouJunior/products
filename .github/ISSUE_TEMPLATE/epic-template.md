@@ -1,26 +1,26 @@
 ---
-name: iniciative-template
-about: Template para Iniciativas
-title: "[INICIATIVE]"
+name: epic-template
+about: Template para Épicos
+title: "[EPIC]"
 labels: ''
 assignees: ''
 
 ---
 
-## [TÍTULO DA INICIATIVE]
+## [TÍTULO DO ÉPICO]
 
 ---
 
-### Título da Iniciativa  
-> Nome claro e direto da iniciativa. Exemplo, "Nova Área do Cliente" ou "Reformulação do Onboarding".
+### Título do Épico
+> Nome claro e direto do Épico. Exemplo, "Nova Área do Cliente" ou "Reformulação do Onboarding".
 ________________________________________________________________________________________________________
 
-### Objetivo da Iniciativa
-> Explique o propósito principal. O que queremos alcançar com essa iniciativa?
+### Objetivo do Épico
+> Explique o propósito principal. O que queremos alcançar com esse épico?
 ________________________________________________________________________________________________________
 
 ### Contexto e Justificativa
-> Explique por que essa iniciativa surgiu, qual o problema ou oportunidade identificado e como ele se alinha à estratégia da empresa.
+> Explique por que esse épico surgiu, qual o problema ou oportunidade identificado e como ele se alinha à estratégia da empresa.
 ________________________________________________________________________________________________________
 
 ### Resultados Esperados (Impactos)
@@ -29,10 +29,6 @@ ________________________________________________________________________________
 -
 -
 -
-________________________________________________________________________________________________________
-
-### Contexto Adicional  
-> *Qualquer observação importante para melhorar o entendimento da User Story.*
 ________________________________________________________________________________________________________
 
 ### Escopo Inicial
@@ -65,7 +61,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 
 ### Critérios de Sucesso e de Aceitação Macro
-> Critérios amplos que indicam que a iniciativa está “concluída com sucesso”.
+> Critérios amplos que indicam que o épico está “concluído com sucesso”.
 -
 -
 -
