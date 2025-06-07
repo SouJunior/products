@@ -44,14 +44,14 @@ ________________________________________________________________________________
 
 
 
-* Incluir o discord dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+* Incluir o discord dos envolvidos na mensagem (caso não preencha essa informação, divulgaremos apenas os nomes dos envolvidos, mas sem marcação):
 
 
 
-* Incluir o LinkedIn dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+* Incluir o LinkedIn dos envolvidos na mensagem (caso não preencha essa informação, divulgaremos apenas os nomes dos envolvidos, mas sem marcação):
 
 
-* Incluir o Instagram dos envolvidos na mensagem (caso não preencha essa informação, informaremos apenas os nomes dos envolvidos, sem marcação):
+* Incluir o Instagram dos envolvidos na mensagem (caso não preencha essa informação, divulgaremos apenas os nomes dos envolvidos, mas sem marcação):
 
 
 
@@ -81,13 +81,13 @@ ________________________________________________________________________________
 
 ### Diretrizes  
 * Legenda:
-- [ ] Pode ser criada pelo time
-- [ ] Será criada por mim. Nesse caso, favor andxar a legenda ou incluir  no item "Observações Finais".
+- [ ] Pode ser criada pela squad
+- [ ] Será criada por mim. Nesse caso, favor anexar a legenda ou incluir  no item "Observações Finais".
 - [ ] Desejo revisar antes de postar
 - [ ] Pode publicar sem a minha revisão
   
 * Arte:
-- [ ] Pode ser criada pelo time
+- [ ] Pode ser criada pela squad
 - [ ] Será criada por mim. Nesse caso, favor andxar a legenda ou incluir no item "Observações Finais".
 - [ ] Desejo revisar antes de postar
 - [ ] Pode publicar sem a minha revisão
@@ -99,4 +99,4 @@ ________________________________________________________________________________
 
 
 Obrigada!
-Após o envio, o time de Social Media entrará em contato para alinhar os próximos passos e o cronograma de produção e aprovação.
+Após o envio, a squad de Social Media entrará em contato para alinhar os próximos passos e o cronograma de produção e aprovação.

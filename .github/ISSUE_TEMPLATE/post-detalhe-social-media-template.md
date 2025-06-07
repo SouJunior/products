@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 Se sim, explique:
 
-- **É uma ação pontual ou recorrente?**
+* É uma ação pontual ou recorrente?
 - [ ] Única publicação
 - [ ] Série de posts.
 
