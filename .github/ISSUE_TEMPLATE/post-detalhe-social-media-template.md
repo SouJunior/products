@@ -19,21 +19,21 @@ ________________________________________________________________________________
 
 * Qual a intenção principal? Escolha 1 ou mais alternativas.
 
-- [] Engajamento.
-- [] Alcance.
-- [] Apoio/Doação;
-- [] Reconhecimento.
-- [] Comunidade.
-- [] Educacional.
-- [] Oportunidades.
-- [] Eventos.
-- [] Informativo.
+- [ ] Engajamento.
+- [ ] Alcance.
+- [ ] Apoio/Doação;
+- [ ] Reconhecimento.
+- [ ] Comunidade.
+- [ ] Educacional.
+- [ ] Oportunidades.
+- [ ] Eventos.
+- [ ] Informativo.
 ________________________________________________________________________________________________________
 
 ### Prazos e Divulgação
-- *Data da postagem:*
-- *Dia da postagem:*
-- *Horário da postagem:* 
+- **Data da postagem:**
+- **Dia da postagem:**
+- **Horário da postagem:** 
 ________________________________________________________________________________________________________
 
 ### Contexto e Justificativa
@@ -55,16 +55,16 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 
 ### Prazos e Frequência
-- *Data ideal de publicação:*
-- *Existe alguma urgência?*
-- [] Sim.
-- [] Não.
+- **Data ideal de publicação:**
+- **Existe alguma urgência?**
+- [ ] Sim.
+- [ ] Não.
 
 Se sim, explique:
 
 * É uma ação pontual ou recorrente?
-- [] Única publicação
-- [] Série de posts.
+- [ ] Única publicação
+- [ ] Série de posts.
 
 Em caso de série de posts: Quantos serão e e qual a periodicidade de publicação?
 ________________________________________________________________________________________________________
@@ -82,8 +82,8 @@ ________________________________________________________________________________
 ### Checklist Final
 > Itens importantes associados a pré postagem, postagem e pós-postagem.
 
-- [] Copy/Roteiro revisado.
-- [] Arte validada.
-- [] Post agendado no canal de referência com legendas e tags.
-- [] Comunidade notificada para engajamento pós-publicação.
+- [ ] Copy/Roteiro revisado.
+- [ ] Arte validada.
+- [ ] Post agendado no canal de referência com legendas e tags.
+- [ ] Comunidade notificada para engajamento pós-publicação.
 ________________________________________________________________________________________________________
