@@ -8,13 +8,6 @@ assignees: ''
 ---
 
 ---
-name: epic-social-mediatemplate.md
-about: Template para Épicos da Equipe de Social Media.
-title: "[EPIC]"
-labels: ''
-assignees: ''
-
----
 
 ## [TÍTULO DO ÉPICO]
 > O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL
@@ -29,10 +22,11 @@ ________________________________________________________________________________
 ### Canal de Comunicação
 > Selecione o canal de comunicação que será utilizado para a publicação dos posts.   
 
-[] LinkedIn Core  
-- [] LinkedIn Labs   
-- [  ] Instagram   
-[  ] Blog   
+* Selecione um Canal:
+- [ ] LinkedIn core
+- [ ] LinkedIn Labs
+- [ ] Instagram
+- [ ] BLog
 ________________________________________________________________________________________________________
 
 ### Calendário Editorial
