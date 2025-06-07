@@ -10,6 +10,11 @@ assignees: ''
 ---
 
 ## [TÍTULO DO ÉPICO]
+> O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL
+
+---
+
+### Título do Épico
 > O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL.
 > Exemplo: Épico Julho 2025 - Posicionamento de Marca
 ________________________________________________________________________________________________________
@@ -21,7 +26,7 @@ ________________________________________________________________________________
 - [ ] LinkedIn core
 - [ ] LinkedIn Labs
 - [ ] Instagram
-- [ ] Blog
+- [ ] BLog
 ________________________________________________________________________________________________________
 
 ### Calendário Editorial
@@ -54,10 +59,10 @@ ________________________________________________________________________________
 ### Checklist de Fechamento do Épico
 > Critérios que precisam ser executados e finalizados antes de encerrar o item.
 
-- [ ] Posts publicados.
-- [ ] Relatório de acompanhamento e análise das métricas finalizado.
-- [ ] Lições Aprendidas registradas.
-- [ ] Briefing do próximo Épico iniciado.
+[  ] Posts publicados.
+[  ] Relatório de acompanhamento e análise das métricas finalizado.
+[  ] Lições Aprendidas registradas.
+[  ] Briefing do próximo Épico iniciado.
 ____________________________________________________________________________
 
 ### Anexos e Documentos de Referência
