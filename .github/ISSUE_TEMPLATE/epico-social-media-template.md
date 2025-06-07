@@ -10,11 +10,6 @@ assignees: ''
 ---
 
 ## [TÍTULO DO ÉPICO]
-> O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL
-
----
-
-### Título do Épico
 > O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL.
 > Exemplo: Épico Julho 2025 - Posicionamento de Marca
 ________________________________________________________________________________________________________
@@ -61,7 +56,7 @@ ________________________________________________________________________________
 
 - [ ] Posts publicados.
 - [ ] Relatório de acompanhamento e análise das métricas finalizado.
-- [ ]Lições Aprendidas registradas.
+- [ ] Lições Aprendidas registradas.
 - [ ] Briefing do próximo Épico iniciado.
 ____________________________________________________________________________
 
