@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: epic-social-mediatemplate.md
-about: Template para Épicos da Equipe de Social Media.
-title: "[EPIC]"
-labels: ''
-assignees: ''
-
----
-
 ## [TÍTULO DO ÉPICO]
 > O título deverá seguir o seguinte formato: ÉPICO + MÊS + ANO + - + FOCO PRINCIPAL
 
