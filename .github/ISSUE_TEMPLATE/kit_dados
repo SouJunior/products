@@ -1,0 +1,43 @@
+---
+
+## [KIT DE DADOS | [ID da US de Produto]]
+
+---
+
+### Kit de Dados - Informações Importantes  
+- Épico de Produtos Referenciado: *Exemplo: Onboarding (link)* 
+- US de Produto Referenciada: *Exemplo: USX - Convite para Entrevista (link)*
+
+________________________________________________________________________________________________________
+
+### Descrição (Vínculo de Negócio ↔ Dado)
+> Uma descrição clara e sucinta sobre o contexto da User Story e a importância do vínculo de "Negócios e Dados".
+> *Exemplo: Este Kit descreve a modelagem e os atributos necessários para viabilizar a [Título da US de Produto]. O objetivo é garantir que cada campo criado no front-end/funcionalidade tenha sua correspondência exata, técnica e governada no Dicionário de Dados Global da SouJunior.*
+
+---
+
+### **DICIONÁRIO DE DADOS:**
+[inserir link do Dicionário de Dados]
+
+---
+
+### **DE_PARA CAMPOS:**
+[inserir link do De_Para]
+
+---
+
+### **REGRAS DE NEGÓCIOS:**
+[inserir link das Regras de Negócios]
+
+---
+
+### **MODELO DE DADOS:**
+[inserir link do Modelo de Dados feito no Draw.io]
+
+---
+
+### **SCRIPT DE DADOS:**
+[inserir link do Script de Dados]
+
+---
+________________________________________________________________________________________________________
