@@ -1,4 +1,10 @@
 ---
+name: kit_de_dados_template
+about: Nome da US
+title: "[US] "
+labels: []
+assignees: []
+---
 
 ## [KIT DE DADOS | [ID da US de Produto]]
 
